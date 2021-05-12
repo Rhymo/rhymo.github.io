@@ -1,0 +1,215 @@
+@media (max-width: 580px) {
+    .sousuo {
+        width: 90%;
+    }
+    .gris_logo_inner .gris_logo a,
+    .gris_logo_inner .gris_logo_open a {
+        font-size: 15px;
+    }
+    .mobile-show {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .gris_sidemenu_inner,
+    .gris_nav_close,
+    .gris_sidemenu_wrapper {
+        display: none;
+    }
+    .slide_menu .open_menu .gris_sidemenu_inner,
+    .slide_menu .gris_sidemenu_wrapper {
+        width: 180px !important;
+        display: block;
+    }
+    .gris_header {
+        display: block;
+        left: 0px;
+        padding: 20px 45px 20px 20px;
+        /* box-shadow: 0px 5px 20px 0px #020a124d; */
+        background-color: unset;
+    }
+    .gris_header.is-scroll {
+        background-color: #fff;
+        border-bottom: 1px solid #c1bfbf;
+        box-shadow: 0px 5px 20px 0px #020a124d;
+    }
+    .gris_header.is-scroll span a {
+        color: gray;
+        ;
+    }
+    /* .gris_mobile_nav_close.is-scroll i {
+        color: gray;
+    } */
+    .gris_top_left .gris_top_search,
+    .gris_top_left .gris_top_trend {
+        display: none;
+    }
+    .gris_top_right {
+        padding-right: 3px;
+    }
+    .gris_top_right .gris_top_lang {
+        display: none;
+    }
+    .gris_top_btn .gris_btn {
+        position: relative;
+        width: 30px;
+        height: 30px;
+        line-height: 34px;
+    }
+    .gris_top_logo {
+        display: block;
+        float: left;
+        line-height: 40px;
+        font-size: 20px;
+        font-family: "LostHighway";
+    }
+    .gris_top_logo span a {
+        color: white;
+        font-size: 1.1rem;
+    }
+    /* .gris_mobile_nav_close {
+        position: fixed;
+        top: 0px;
+        right: 10px;
+        display: block;
+        line-height: 80px;
+        z-index: 9999;
+        color: white;
+    }
+    .gris_mobile_nav_close i {
+        font-size: 30px;
+    } */
+    .index_info {
+        text-align: left;
+    }
+    .index_info h1 {
+        font-size: 2em;
+        padding-left: 20px;
+    }
+    .index_info h3 {
+        font-size: 1.3em;
+        padding-left: 20px;
+    }
+    #rongqi {
+        margin-left: 0px;
+        padding: 0;
+    }
+    .mt-screen {
+        margin-top: 100px;
+        margin-left: 0px;
+    }
+    #rongqi .col-6 {
+        margin-bottom: 10px;
+    }
+    #rongqi .col-6:nth-child(2n-1) {
+        padding-left: 15px;
+        padding-right: 5px;
+    }
+    #rongqi .col-6:nth-child(2n) {
+        padding-right: 15px;
+        padding-left: 5px;
+    }
+    .post-card {
+        padding: 0;
+        margin: 6px 0;
+    }
+    .wedocs-shortcode-wrap ul.wedocs-docs-list li.wedocs-docs-single {
+        margin-right: 0;
+        width: 100%;
+    }
+    .page_navi a {
+        display: none;
+    }
+    .page_navi .mshow {
+        display: inline;
+    }
+    .gris-footer {
+        margin-top: 10px;
+    }
+    .icp {
+        display: block;
+    }
+    .social-list a {
+        padding: 0 0.1rem;
+    }
+    .wedocs-breadcrumb,
+    .card-title {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .docs .entry-header,
+    .page-header {
+        width: 100%;
+    }
+    .docs .entry-header h1,
+    .page-header h1 {
+        font-size: 1.2rem;
+        width: 100%;
+    }
+    .page-content img {
+        width: 100%;
+    }
+    .article-simple {
+        padding: 20px 0px;
+        margin: 0px auto;
+    }
+    #primary {
+        padding: 15px;
+    }
+    .wedocs-entry-footer time {
+        width: 100%;
+        text-align: center;
+        font-style: normal !important;
+    }
+    .page-content img,
+    .content-detail img {
+        width: 100%;
+        height: auto;
+    }
+    .post-card .post-card-image {
+        min-height: 233px;
+    }
+    .post-card .post-category a {
+        letter-spacing: 0px;
+        font-size: 5px;
+        text-transform: uppercase;
+        padding: 4px 4px;
+    }
+    .post-card .post-card-body .post-card-title {
+        font-size: 0.85rem;
+        font-weight: 900;
+        line-height: 1.5rem;
+    }
+    .linklist li,
+    .tagslist li {
+        display: block;
+        width: 96%;
+    }
+    .category-image img {
+        width: 100%;
+    }
+    .content-meta .icon-calendar {
+        display: none;
+    }
+    .menu-menu-two-container,
+    .menu-menu-three-container {
+        display: none;
+    }
+    .content-detail h3 {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+    #searchModal {
+        top: 20%;
+    }
+    .mshow {
+        display: block;
+    }
+    .article-actions button,
+    .article-actions a {
+        font-size: 0.75rem;
+    }
+    .theme-item-price strong {
+        font-size: 24px;
+    }
+}

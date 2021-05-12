@@ -1,0 +1,15 @@
+#banner{
+    text-align: right;
+}
+#banner li{
+    display: inline-block;
+    background-color: #eee;
+    display: inline-block;
+    padding: 5px 10px 4px;
+    font-size: 12px;
+}
+#banner li:hover{
+    background-color: #4cb6cb;
+    color: #fff;
+    cursor:pointer;
+}
